@@ -2,6 +2,7 @@
 This project performs **player detection and tracking** in football match footage using a **custom YOLOv8 model** and **DeepSORT** for multi-object tracking.
 
 📁 Folder Structure
+```
 your_submission_folder/
 ├── tracker.py # Main tracking script (YOLO + DeepSORT)
 ├── inference.py # Optional: simple detection-only script
@@ -15,7 +16,7 @@ your_submission_folder/
 ├── requirements.txt # Python dependencies
 ├── README.md # Setup and usage instructions (this file)
 └── report.md / report.pdf # Methodology and results
-
+```
 ⚙️ Requirements and Setup
 ✅ Tested Environment
 - Python 3.10 or 3.12  
